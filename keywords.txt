@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For DallasTemperature
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Sensor_Values      		KEYWORD1
+BME_VALUES      		KEYWORD1
+DHT_VALUES      		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+report      			KEYWORD2
+getName      			KEYWORD2
+isOk      			    KEYWORD2
+toJson      			KEYWORD2
+report      			KEYWORD2
+getTemperature 			KEYWORD2
+getHumidity    			KEYWORD2
+getPressure    			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

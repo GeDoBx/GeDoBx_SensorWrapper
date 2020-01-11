@@ -1,0 +1,16 @@
+{
+  "name": "DHT-VALUES",
+  "keywords": "DHT22, BME280 i2c, bus, sensor, temperature, pressure, humidity, display",
+  "description": "Library for Gerds projects",
+  "authors": 
+  [
+    {
+      "name": "Gerd Doert-Brexel",
+      "email": "gerd.doert-brexel@t-online.de",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
